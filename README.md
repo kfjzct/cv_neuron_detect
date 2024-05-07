@@ -18,7 +18,7 @@ git clone --recurse-submodules https://github.com/kfjzct/cv_neuron_detect.git
 cd cv_neuron_detect
 pip install numpy matplotlib scikit-image scikit-learn scipy pillow
 ```
-##User directions:
+## User directions:
 
 open the repository in your favourite IDE
 specify file paths (input and output data), pixel density, and sigma (for smoothing)
