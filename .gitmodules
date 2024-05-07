@@ -1,0 +1,3 @@
+[submodule "EGC_Z_dataset"]
+	path = EGC_Z_dataset
+	url = https://github.com/gustavozf/EGC_Z_dataset.git
