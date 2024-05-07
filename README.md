@@ -1,21 +1,23 @@
 # cv_neuron_detect
 
-Repo for our neuron detector
+## Environment Setup
 
-Use a virtual environment
+To run the scripts, you will need Python installed on your machine, along with several libraries used for image processing and data analysis.
 
-The program will be run in jupyter notebook
+### Prerequisites
 
-Dependencies:
+- Python (3.6 or newer)
+- pip (Python package installer)
 
-numpy
-scikit-learn
-scikit-image
-bioformats
-ipaykernel
-pandas
-javabridge
+### Installation
 
+First, clone the repository to your local machine (if applicable), then navigate to the directory containing the project. You can install all the required Python libraries using `pip` by running the following command:
+
+```
+git clone --recurse-submodules https://github.com/kfjzct/cv_neuron_detect.git
+cd cv_neuron_detect
+pip install numpy matplotlib scikit-image scikit-learn scipy pillow
+```
 User directions:
 
 open the repository in jupyter notebook
